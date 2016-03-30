@@ -23,7 +23,7 @@ Attributes
   <tr>
     <td><tt>['alarm']['customer_name']</tt></td>
     <td>String</td>
-    <td>the name to prefix alarms with</td>
+    <td>This string is going to prefix every single cloudwatch alarm</td>
   </tr>
 </table>
 <table>
@@ -35,7 +35,7 @@ Attributes
   <tr>
     <td><tt>['alarm']['cpu']['sns']['arn']</tt></td>
     <td>String</td>
-    <td>The sns arn to send the cpu alert to.</td>
+    <td>This sns arn is the target for all cpu alarms</td>
   </tr>
 </table>
 <table>
@@ -47,7 +47,7 @@ Attributes
   <tr>
     <td><tt>['alarm']['status']['sns']['arn']</tt></td>
     <td>String</td>
-    <td>The sns arn to send the status alert to.</td>
+    <td>This sns arn is the target for all status alarms</td>
   </tr>
 </table>
 
