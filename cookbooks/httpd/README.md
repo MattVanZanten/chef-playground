@@ -24,4 +24,6 @@ Just include `httpd` in your node's `run_list`:
 }
 ```
 
+License and Authors
+-------------------
 Authors: Matt van Zanten
