@@ -26,5 +26,7 @@ Just include `apt` in your node's `run_list`:
   ]
 }
 ```
-Authors:
-Matt van Zanten
+
+License and Authors
+-------------------
+Authors: Matt van Zanten
