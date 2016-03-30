@@ -64,5 +64,7 @@ Just include `cloudwatch-alarm` in your node's `run_list`:
   ]
 }
 ```
-Authors:
-MattVanZanten
+
+License and Authors
+-------------------
+Authors: Matt van Zanten
